@@ -1,0 +1,2 @@
+Meand13C;SDd13C;Meand15N;SDd15N
+0.1;2.2;2.6;2.0

@@ -1,3 +1,5 @@
+# Dataset: Whole-stream wastewater addition stimulates the green food web pathway but does not affect food chain length
+
 # Overview
 This is the accompanying research data and code for the paper de Guzman et al. (2026) - "Whole-stream wastewater addition stimulates the green food web pathway but does not affect food chain length" published in Hydrobiologia. DOI: 10.1007/s10750-025-06103-w
 

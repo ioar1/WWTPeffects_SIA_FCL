@@ -19,3 +19,6 @@ File containing trophic groups of consumers
 
 ## frac.txt
 File containing Trophic Discrimination Factors from Brauns et al. (2018).
+
+
+Data and code are also available on figshare: 10.6084/m9.figshare.25428574
